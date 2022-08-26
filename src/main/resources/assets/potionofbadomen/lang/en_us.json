@@ -1,5 +1,11 @@
 {
   "item.minecraft.potion.effect.bad_omen": "Potion of Bad Omen",
   "item.minecraft.splash_potion.effect.bad_omen": "Splash Potion of Bad Omen",
-  "item.minecraft.lingering_potion.effect.bad_omen": "Lingering Potion of Bad Omen"
+  "item.minecraft.lingering_potion.effect.bad_omen": "Lingering Potion of Bad Omen",
+  "item.minecraft.potion.effect.glowing": "Potion of Glowing",
+  "item.minecraft.splash_potion.effect.glowing": "Splash Potion of Glowing",
+  "item.minecraft.lingering_potion.effect.glowing": "Lingering Potion of Glowing",
+  "item.minecraft.potion.effect.wither": "Potion of Wither",
+  "item.minecraft.splash_potion.effect.wither": "Splash Potion of Wither",
+  "item.minecraft.lingering_potion.effect.wither": "Lingering Potion of Wither"
 }

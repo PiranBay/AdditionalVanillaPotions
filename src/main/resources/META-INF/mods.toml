@@ -2,16 +2,16 @@ modLoader="javafml"
 loaderVersion="[36,)"
 license="GNU GPLv3"
 [[mods]]
-modId="potionofbadomen"
-version="1.0.0"
-displayName="Potion of Bad Omen"
+modId="additionalvanillapotions"
+version="2.0.2"
+displayName="Additional Vanilla Potions"
 authors="ExTetragon, Cvlunicorn" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Adding a potion of bad omen that brewed from ominous banner.
+Adding potions for vanilla effects, including bad omen.
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
-[[dependencies.potionofbadomen]] #optional
+[[dependencies.additionalvanillapotions]] #optional
     # the modid of the dependency
     modId="forge" #mandatory
     # Does this dependency have to exist - if not, ordering below must be specified
@@ -23,7 +23,7 @@ Adding a potion of bad omen that brewed from ominous banner.
     # Side this dependency is applied on - BOTH, CLIENT or SERVER
     side="BOTH"
 # Here's another dependency
-[[dependencies.potionofbadomen]]
+[[dependencies.additionalvanillapotions]]
     modId="minecraft"
     mandatory=true
 # This version range declares a minimum of the current minecraft version up to but not including the next major version

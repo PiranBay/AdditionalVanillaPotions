@@ -1,5 +1,11 @@
 {
   "item.minecraft.potion.effect.bad_omen": "不祥之兆药水",
   "item.minecraft.splash_potion.effect.bad_omen": "喷溅型不祥之兆药水",
-  "item.minecraft.lingering_potion.effect.bad_omen": "滞留型不祥之兆药水"
+  "item.minecraft.lingering_potion.effect.bad_omen": "滞留型不祥之兆药水",
+  "item.minecraft.potion.effect.glowing": "发光药水",
+  "item.minecraft.splash_potion.effect.glowing": "喷溅型发光药水",
+  "item.minecraft.lingering_potion.effect.glowing": "滞留型发光药水",
+  "item.minecraft.potion.effect.wither": "凋零药水",
+  "item.minecraft.splash_potion.effect.wither": "喷溅型凋零药水",
+  "item.minecraft.lingering_potion.effect.wither": "滞留型凋零药水"
 }
