@@ -34,6 +34,42 @@ public class AdditionalVanillaPotions
             BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.LingeringBadOmen());
             BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.LingeringBadOmenFromAwkward());
 
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.Glowing());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.SplashGlowing());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.SplashGlowingFromAwkward());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.LingeringGlowing());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.LingeringGlowingFromAwkward());
+
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.LongGlowing());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.SplashLongGlowing());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.SplashLongGlowingFromShort());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.LingeringLongGlowing());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.LingeringLongGlowingFromShort());
+            
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.Wither());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.SplashWither());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.SplashWitherFromAwkward());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.LingeringWither());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.LingeringWitherFromAwkward());
+
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.LongWither());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.SplashLongWither());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.SplashLongWitherFromShort());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.LingeringLongWither());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.LingeringLongWitherFromShort());
+
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.StrongWither());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.SplashStrongWither());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.SplashStrongWitherFromWeak());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.LingeringStrongWither());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.LingeringStrongWitherFromWeak());
+
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.Luck());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.SplashLuck());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.SplashLuckFromAwkward());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.LingeringLuck());
+            BrewingRecipeRegistry.addRecipe(new ModBrewingRecipes.LingeringLuckFromAwkward());
+
         });
     }
 }

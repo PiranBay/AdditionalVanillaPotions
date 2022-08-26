@@ -3,7 +3,7 @@ loaderVersion="[36,)"
 license="GNU GPLv3"
 [[mods]]
 modId="additionalvanillapotions"
-version="2.0.2"
+version="2.0.3"
 displayName="Additional Vanilla Potions"
 authors="ExTetragon, Cvlunicorn" #optional
 # The description text for the mod (multi line!) (#mandatory)
